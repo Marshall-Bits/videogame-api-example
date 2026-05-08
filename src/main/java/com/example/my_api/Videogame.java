@@ -18,4 +18,5 @@ public class Videogame {
     private String genre;
     private int releaseYear;
     private double price;
+    private String platform;
 }
